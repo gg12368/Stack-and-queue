@@ -1,6 +1,6 @@
 public class ArrayStack {
 	private String[] items;// 数组
-	private int count;// 栈中元素个数
+	private int count;// 栈中元素的个数
 	private int n;// 栈的大小
 	// 初始化数组，申请一个大小为n的数组空间
 
