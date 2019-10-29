@@ -1,3 +1,4 @@
+基于数组的顺序栈：
 public class ArrayStack {
 	private String[] items;// 数组
 	private int count;// 栈中元素的个数
