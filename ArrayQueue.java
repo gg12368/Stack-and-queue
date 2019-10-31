@@ -1,3 +1,4 @@
+基于数组的顺序队列：
 public class ArrayQueue<T> implements Queue<T> {
 //存放具体数据
 	private T[] elementData;
